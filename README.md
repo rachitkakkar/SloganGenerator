@@ -1,5 +1,5 @@
 # SloganGenerator
-This is a simple slogan generator using a slogan dataset I found which uses the textgenrnn library.
+This is a simple slogan generator using a slogan dataset I found and the textgenrnn library. It is a very basic machine learning project (using an RNN)
 
 # Runtime
 Tested with Python 3.8.6, may work with any other versions of 3.8.
